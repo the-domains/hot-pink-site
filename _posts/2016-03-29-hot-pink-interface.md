@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-29T06:20:41.375Z'
-dateModified: '2016-03-29T06:15:58.270Z'
+datePublished: '2016-03-29T06:28:08.481Z'
+dateModified: '2016-03-29T06:27:52.897Z'
 title: Hot Pink Interface
 author: []
+sourcePath: _posts/2016-03-29-hot-pink-interface.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-29-hot-pink-interface.md
-published: true
 url: hot-pink-interface/index.html
 _type: Article
 
