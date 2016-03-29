@@ -1,0 +1,28 @@
+name: Hot Pink Site
+favicon: null
+layout_spectrum: 0.24713599146343768
+typography_spectrum: 0.037338603753596544
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2767743517179042
+  lightness: 0.06368463602848351
+  saturation: 0.13507096096873283
+  rhythmicContrast: 0.34406221378594637
+purpose: []
