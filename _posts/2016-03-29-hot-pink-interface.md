@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-29T06:28:08.481Z'
-dateModified: '2016-03-29T06:27:52.897Z'
+datePublished: '2016-03-29T06:28:56.000Z'
+dateModified: '2016-03-29T06:28:15.245Z'
 title: Hot Pink Interface
 author: []
 sourcePath: _posts/2016-03-29-hot-pink-interface.md
