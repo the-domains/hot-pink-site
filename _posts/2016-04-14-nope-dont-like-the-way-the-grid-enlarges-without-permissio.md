@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-14T20:57:44.382Z'
-dateModified: '2016-04-14T20:57:23.658Z'
+datePublished: '2016-04-14T20:58:48.842Z'
+dateModified: '2016-04-14T20:57:52.356Z'
 title: "Nope! Don't Like the Way The Grid Enlarges without permission!"
 author: []
+sourcePath: _posts/2016-04-14-nope-dont-like-the-way-the-grid-enlarges-without-permissio.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-14-nope-dont-like-the-way-the-grid-enlarges-without-permissio.md
-published: true
 url: nope-dont-like-the-way-the-grid-enlarges-without-permissio/index.html
 _type: Article
 
